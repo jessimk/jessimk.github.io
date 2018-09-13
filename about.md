@@ -10,4 +10,4 @@ permalink: /about/
 
 I'm currently a student in the Masters of Data Science program at UBC.
 
-Beyond data science, my background is in the nonprofit sector (HR, finance, general operations.
+Beyond data science, my background is in the nonprofit and small business sectors.
